@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-platform",
+  "repo": "asimov-chrome-extesion",
+  "versions": [
+    {
+      "commit": "6542efc7261aaba3b784406e8ad26213d7a28d93",
+      "parsed_at": "2026-09-27T19:12:00.828122+00:00",
+      "tag": "master",
+      "filetree": "filetree/6542efc7261aaba3b784406e8ad26213d7a28d93.nq.gz",
+      "blobs": [
+        "blob/66f6288eb7705860a70850de30afcdd3761bd715.nq.gz",
+        "blob/ed90fe722819f1c9004ef641d30a18fd4e057c89.nq.gz",
+        "blob/e52dee7f5ec0f339f1436d52c7120e03876de744.nq.gz",
+        "blob/26ce133f051b10193a82cbbe27366020b629d4c5.nq.gz",
+        "blob/5220a81938d2f9a64d6e9c6295678fd979c8e76c.nq.gz",
+        "blob/294b389980549b9c318ebf798f08adbf81272f28.nq.gz",
+        "blob/6ac0b10083df1c56629129b9786feffd4a1bd45b.nq.gz",
+        "blob/0cfff0277ef33706d951fa72d94583d1b64af94c.nq.gz",
+        "blob/8e32ae6d023e0f00a4903759481573afcf46a8ed.nq.gz",
+        "blob/2a2265490960ebfd0e4c230ce93e79f0e76f3ef1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
